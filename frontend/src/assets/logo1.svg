@@ -1,0 +1,17 @@
+<svg width="800" height="400" viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Diamond with sparkle -->
+  <g transform="translate(620, 80)" fill="#DAA520">
+    <path d="M30,0 L60,30 L30,60 L0,30 Z"/>
+    <path d="M25,-15 L35,-5 L25,5 L15,-5 Z"/>
+  </g>
+  
+  <!-- ShilpaKotha text -->
+  <text x="100" y="200" font-family="serif" font-size="120" fill="#8B4513" font-weight="normal">
+    ShilpoKotha
+  </text>
+  
+  <!-- HANDMADE JEWELLERY text -->
+  <text x="100" y="280" font-family="sans-serif" font-size="48" fill="#DAA520" letter-spacing="4">
+    HANDMADE JEWELLERY
+  </text>
+</svg>

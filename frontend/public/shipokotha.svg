@@ -1,0 +1,11 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <text x="30" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#facc15">
+    SHIPO
+  </text>
+  <text x="140" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#38bdf8">
+    KOTHA
+  </text>
+  <path d="M260 38h-30l-5-15h-15" stroke="#facc15" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <circle cx="235" cy="58" r="5" fill="#38bdf8"/>
+  <circle cx="255" cy="58" r="5" fill="#38bdf8"/>
+</svg>
